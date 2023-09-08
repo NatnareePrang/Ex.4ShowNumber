@@ -2,8 +2,8 @@
 ## Name: Natnaree phinjud
 ### ID: 6340011004
 
-<img src="assets/images/ex_4" style="width: 200px;">
-<img src="assets/images/ex_4_2" style="width: 200px;">
+<img src="assets/images/ex_4.png" style="width: 200px;">
+<img src="assets/images/ex_4_2.png" style="width: 200px;">
 A new Flutter project.
 
 ## Getting Started
